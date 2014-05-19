@@ -3,7 +3,7 @@
 	ProjectType="Visual C++"
 	Version="9.00"
 	Name="common"
-	ProjectGUID="{12A00ECE-E892-4206-95A6-9B4CADF29EC6}"
+	ProjectGUID="{50C2AA1D-7A88-4145-BCD3-F49C8FAB4DF5}"
 	RootNamespace="common"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"
